@@ -1,0 +1,12 @@
+1;Vestido noiva brilho;Noiva;10
+2;Vestido noiva liso;Noiva;10
+3;Vestido daminha branco;Daminha;10
+4;Vestido daminha rosa;Daminha;9
+5;Terno preto;Terno;10
+6;Terno azul;Terno;9
+7;Vestido madrinha amarelo;Madrinha;10
+8;Vestido madrinha rosa;Madrinha;0
+10;Vestido madrinha azul;Madrinha;5
+11;Terno Azul Marinho;Terno;3
+12;vestido florido;vestido;5
+350;vestido ;formatura;3
