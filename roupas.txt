@@ -1,0 +1,9 @@
+1;Terno Slim Preto;Terno;3;80.0
+2;Terno Classic Cinza;Terno;2;70.0
+3;Vestido de Noiva Clássico;Vestido de Noiva;1;200.0
+4;Vestido de Festa Azul;Vestido de Festa;2;90.0
+5;Vestido de Festa Vermelho;Vestido de Festa;1;85.0
+6;Smoking Preto;Smoking;2;100.0
+7;Roupa Social Feminina Cinza;Social Feminino;3;60.0
+8;Camisa Social Branca;Social;5;30.0
+9;Camisa Social Preta;Social;3;30.0
